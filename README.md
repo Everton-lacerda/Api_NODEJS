@@ -2,7 +2,7 @@
 
 # Funcionalidades:
 
-Criar uma conta, podendo se o prestador do serviço ou cliente.
+Criar uma conta, podendo ser o prestador do serviço ou cliente.
 
 O cliente pode agendar seu atendimento nos dias e horários disponíveis.
 
